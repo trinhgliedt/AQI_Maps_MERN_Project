@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.523f09c5.chunk.css",
-    "main.js": "/static/js/main.300aaef3.chunk.js",
-    "main.js.map": "/static/js/main.300aaef3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
-    "static/css/2.8aa5a7f8.chunk.css": "/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.3e5d2cc2.chunk.js": "/static/js/2.3e5d2cc2.chunk.js",
-    "static/js/2.3e5d2cc2.chunk.js.map": "/static/js/2.3e5d2cc2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3981cbcf2e43231b6f98da0602d739e2.js": "/precache-manifest.3981cbcf2e43231b6f98da0602d739e2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.8aa5a7f8.chunk.css.map": "/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.523f09c5.chunk.css.map": "/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.3e5d2cc2.chunk.js.LICENSE.txt": "/static/js/2.3e5d2cc2.chunk.js.LICENSE.txt"
+    "main.css": "/AQI_Maps_MERN_Project/static/css/main.523f09c5.chunk.css",
+    "main.js": "/AQI_Maps_MERN_Project/static/js/main.d6a208d5.chunk.js",
+    "main.js.map": "/AQI_Maps_MERN_Project/static/js/main.d6a208d5.chunk.js.map",
+    "runtime-main.js": "/AQI_Maps_MERN_Project/static/js/runtime-main.f95ecdb6.js",
+    "runtime-main.js.map": "/AQI_Maps_MERN_Project/static/js/runtime-main.f95ecdb6.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/AQI_Maps_MERN_Project/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.3e5d2cc2.chunk.js": "/AQI_Maps_MERN_Project/static/js/2.3e5d2cc2.chunk.js",
+    "static/js/2.3e5d2cc2.chunk.js.map": "/AQI_Maps_MERN_Project/static/js/2.3e5d2cc2.chunk.js.map",
+    "index.html": "/AQI_Maps_MERN_Project/index.html",
+    "precache-manifest.95c97a9a907591cf6ab55462656e9f69.js": "/AQI_Maps_MERN_Project/precache-manifest.95c97a9a907591cf6ab55462656e9f69.js",
+    "service-worker.js": "/AQI_Maps_MERN_Project/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/AQI_Maps_MERN_Project/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/AQI_Maps_MERN_Project/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.3e5d2cc2.chunk.js.LICENSE.txt": "/AQI_Maps_MERN_Project/static/js/2.3e5d2cc2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.09b85ec0.js",
+    "static/js/runtime-main.f95ecdb6.js",
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.3e5d2cc2.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.300aaef3.chunk.js"
+    "static/js/main.d6a208d5.chunk.js"
   ]
 }

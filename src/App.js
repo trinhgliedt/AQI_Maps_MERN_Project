@@ -113,8 +113,8 @@ function App({ mapProps }) {
   return (
     <div className='App'>
       <SearchBox setLoc={longLat => setCenteredPos(longLat)} aqiStations={AQIStations} setFilteredStations={setFilteredStations}/>
-      <SearchLocationInput setLoc={longLat => setCenteredPos(longLat)} />
-      {/* <Map {...mapProps}/> */}
+      {/* <SearchLocationInput setLoc={longLat => setCenteredPos(longLat)} /> */}
+      <Map {...mapProps}/>
       <Router primary={false}>
         <FilteredTable path="/stations/filter" setLoc={longLat => setCenteredPos(longLat)} filteredStations={filteredStations}/>
         <EachStation style={{visibility: "visible"}} path="/stations/:locLat/:locLng" />
